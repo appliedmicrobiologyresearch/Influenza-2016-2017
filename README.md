@@ -4,3 +4,5 @@ This repository contains the scripts for the analysis of Samples collected in th
 # make_SNP_clusters.py
 
 # permutation_test_influenza_cluster.py
+
+Usage: python permutation_test_influenza_cluster.py Cluster_information_file.txt
