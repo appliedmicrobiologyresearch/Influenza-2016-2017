@@ -13,4 +13,6 @@ Example: python make_SNP_clusters.py whole_genome_alignment.aln 10 > clustered_s
 
 This script counts the number of samples that are in the same cluster (from make_SNP_clusters.py) between two quartiers. Additionally it performs a permutation test that randomly assignes quartiers to the different samples. The output is intended to be visualised using Circos.
 
-Usage: python permutation_test_influenza_cluster.py Cluster_information_file.txt
+Usage: python permutation_test_influenza_cluster.py table_file_with_information.txt
+
+Example: python permutation_test_influenza_cluster.py Strain_cluster_information_file.txt > analysis.txt
