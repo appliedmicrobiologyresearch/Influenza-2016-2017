@@ -6,7 +6,7 @@ This repository contains the scripts for the analysis of Samples collected in th
 This script clusters aligned sequences based on a SNP distance cutoff.
 
 Usage: python make_SNP_clusters.py alignment.fasta snp_difference(int) 
-Example: python make_SNP_clusters.py whole_genome_alignment.aln 10 > clusterd_.txt
+Example: python make_SNP_clusters.py whole_genome_alignment.aln 10 > clustered_strains.txt
 
 # permutation_test_influenza_cluster.py
 
