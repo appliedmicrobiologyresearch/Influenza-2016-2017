@@ -8,53 +8,53 @@ dataset: "https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyrese
 abstract: "Nextstrain run by Richard Neher and Emma Hodcroft. <br><br> This narrative illustrates some of the findings of Flu Basel."
 ---
 
-# [Zooming in to Europe](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?p=grid&d=tree,entropy&r=country_europe)
+# [Zooming in to Europe](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?p=grid&d=tree,entropy&r=country_europe&clade=root)
 
 We will now zoom in to Europe...
 
-# [Zoomed into Europe](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?p=grid&r=country_europe)
+# [Zoomed into Europe](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?p=grid&r=country_europe&clade=root)
 
 A view of samples in Europe, coloured by country.
 
-# [Zooming in to Cities](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=city&p=grid&r=city&d=tree,entropy)
+# [Zooming in to Cities](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=city&p=grid&r=city&d=tree,entropy&clade=root)
 
 We will now zoom in to Cities...
 
-# [Zoomed into Cities](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=city&p=grid&r=city)
+# [Zoomed into Cities](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=city&p=grid&r=city&clade=root)
 
 A view of samples in Cities, coloured by city. Samples from GISAID do not have city information, only study samples do.
 <br>
 Adrian, I could tighten this up by removing Luxembourg and the Italian Cities. Let me know.
 
-# [Zooming in to Quarter](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=quarter&p=grid&r=quarter&d=tree,entropy)
+# [Zooming in to Quarter](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=quarter&p=grid&r=quarter&d=tree,entropy&clade=root)
 
 We will now zoom in to Quarters...
 
-# [Zoomed into Quarter](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=quarter&p=grid&r=quarter)
+# [Zoomed into Quarter](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=quarter&p=grid&r=quarter&clade=root)
 
 A view of samples in Quarters, coloured by Quarter. Only study samples within Basel have this information.
 
-# [Quarters by Social Score](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=Social_Score_sum&p=grid&r=quarter)
+# [Quarters by Social Score](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=Social_Score_sum&p=grid&r=quarter&clade=root)
 
 Quarters, coloured by social score sum
 
-# [Quarter by Income Classification](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=Reineinkommen_Klassizfiziert&p=grid&r=quarter)
+# [Quarter by Income Classification](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=Reineinkommen_Klassizfiziert&p=grid&r=quarter&clade=root)
 
 Quarters are colored by income classification
 
-# [Quarter by Age Range](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=age_range1&p=grid&r=quarter)
+# [Quarter by Age Range](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=age_range1&p=grid&r=quarter&clade=root)
 
 Quarters are colored by age range
 
-# [Zooming in to Block...](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=age_range1&d=tree,entropy&r=block)
+# [Zooming in to Block...](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=age_range1&d=tree,entropy&r=block&clade=root)
 
 We will now zoom in to Block...
 
-# [Zoomed into Block](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=age_range1&r=block)
+# [Zoomed into Block](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=age_range1&r=block&clade=root)
 
 We are now zoomed in to block level, coloured by age range
 
-# [Block by Social Score](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=Social_Score_sum&p=grid&r=block)
+# [Block by Social Score](https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=Social_Score_sum&p=grid&r=block&clade=root)
 
 Blocks, coloured by social score sum
 
