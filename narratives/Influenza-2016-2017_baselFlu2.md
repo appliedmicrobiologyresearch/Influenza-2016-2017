@@ -24,7 +24,7 @@ We will now zoom in to Cities...
 
 A view of samples in Cities, coloured by city. Samples from GISAID do not have city information, only study samples do.
 <br>
-Adrian, I could tighten this up by removing Luxembourg and the Italian Cities. Let me know.
+I've improved this by removing cities in Italy and the south of Switzerland. I could tighten this up by removing more cities - it depends how zoomed in you want.
 
 # [Zooming in to Quarter](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=quarter&p=grid&r=quarter&d=tree,entropy&clade=root)
 
