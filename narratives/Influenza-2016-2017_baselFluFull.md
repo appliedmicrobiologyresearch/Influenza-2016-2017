@@ -4,7 +4,7 @@ authors: "Egli et al."
 authorLinks: "https://xxx"
 date: "October 2019"
 updated: "October 2019"
-dataset: "https://nextstrain-dev.herokuapp.com/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?p=grid"
+dataset: "https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?p=grid"
 abstract: "Nextstrain run by Richard Neher and Emma Hodcroft. <br><br> This narrative illustrates some of the findings of Flu Basel. <br><br> Full length genome."
 ---
 
