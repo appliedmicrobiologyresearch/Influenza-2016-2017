@@ -70,10 +70,6 @@ Cluster 53 is shown and mapped across Basel by block
 
 Cluster 31 is shown and mapped across Basel by block
 
-<br>
-
-Note that there is one member of Cluster 4 within Cluster 31
-
 # [Zoom in on Cluster 19](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=zoom_cluster&clade=Cluster_19&p=grid&r=block)
 
 Cluster 19 is shown and mapped across Basel by block
