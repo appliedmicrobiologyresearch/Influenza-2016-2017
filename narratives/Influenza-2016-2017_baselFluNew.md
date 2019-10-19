@@ -75,11 +75,3 @@ Statistical block
 Zooming to closer block level...
 <br>
 TO DO
-
-# [Zoomed to Closer Statistical Block](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=Reineinkommen_Klassizfiziert&p=grid&r=block&clade=root)
-
-Statistical block
-<br>
-Even at resolution of statistical blocks, there is high diversity of isolates. In a single block, multiple different viruses which belong to different clusters, can occur.
-<br>
-TO DO
