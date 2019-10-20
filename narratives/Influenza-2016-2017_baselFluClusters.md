@@ -1,87 +1,45 @@
 ---
-title: Basel Flu Study
-authors: "Egli et al."
+title: Basel Flu Study Clusters
+authors: "Egli A, Goldman N, et al."
 authorLinks: "https://xxx"
 date: "October 2019"
 updated: "October 2019"
-dataset: "https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?p=grid"
-abstract: "Nextstrain run by Richard Neher and Emma Hodcroft. <br><br> This narrative illustrates some of the findings of Flu Basel. <br><br> Full length genome."
+dataset: "https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=block&f_city=Basel&p=grid&r=block&clade=root"
+abstract: "As examples of transmission within the city, here we show three putative transmission clusters at the resolution provided by using whole-genomes."
 ---
 
-# [Zooming in to Europe](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?p=grid&d=tree,entropy&r=country_europe&clade=root)
+# [Why Full Genomes](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=block&f_city=Basel&p=grid&r=block&clade=root)
 
-We will now zoom in to Europe...
+What is the advantage of using whole genomes rather than one segment, as previously?
+<br><br>
+The rate at which mutations accumulate over the whole genome is faster, giving us greater resolution.
+<br><br>
+However, if segments have reassorted, this can skew our phylogenetic reconstruction. Here, due to the potential effects of reassortment particularly on the deeper tree reconstruction, we present a divergence phylogeny rather than a time-resolved phylogeny.
 
-# [Zoomed into Europe](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?p=grid&r=country_europe&clade=root)
+# [Cluster 53](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=quarter&clade=Cluster_53&p=grid&r=block)
 
-A view of samples in Europe, coloured by country.
+Cluster 53 is mainly located in the Gundeldingen area. This first cluster has 4 quarters involved, with most of the cases in the Gundeldingen area.
+<br><br>
+The grey sequence is from just across the border in Lorrach.
 
-# [Zooming in to Cities](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=city&p=grid&r=city&d=tree,entropy&clade=root)
+# [Cluster 31](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=quarter&clade=Cluster_31&p=grid&r=block)
 
-We will now zoom in to Cities...
-
-# [Zoomed into Cities](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=city&p=grid&r=city&clade=root)
-
-A view of samples in Cities, coloured by city. Samples from GISAID do not have city information, only study samples do.
+Cluster 31 is a more geographically more diverse, with multiple cities surrounding Basel (grey sequences starting with '35', not shown on map) and several urban quarters involved. 
 <br>
-I've improved this by removing cities in Italy and the south of Switzerland. I could tighten this up by removing more cities - it depends how zoomed in you want.
+There is also one sample from Brazil ('A/Amapa/146418-IEC/2017'), but this sequence might be located outside of the cluster (there is not enough genetic resolution to tell).
 
-# [Zooming in to Quarter](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=quarter&p=grid&r=quarter&d=tree,entropy&clade=root)
+# [Cluster 19](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=quarter&clade=Cluster_19&p=grid&r=block)
 
-We will now zoom in to Quarters...
+Cluster 19 is also found all over Basel, and is the largest we show here.
+<br><br>
+The three samples shown at the bottom of this clade, on very long branches, have reassorted at least one of their segments.
 
-# [Zoomed into Quarter](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=quarter&p=grid&r=quarter&clade=root)
+# [Cluster 19 Sequences in Nearby Cities](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=city&clade=Cluster_19&p=grid&r=city&d=tree,entropy)
 
-A view of samples in Quarters, coloured by Quarter. Only study samples within Basel have this information.
+We can illustrate how cluster 19 extends outside of Basel by zooming to the city level...
 
-# [Quarters by Social Score](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=Social_Score_sum&p=grid&r=quarter&clade=root)
+# [Cluster 19 in the Surrounding Cities](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=city&clade=Cluster_19&p=grid&r=city)
 
-Quarters, coloured by social score sum
-
-# [Quarter by Income Classification](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=Reineinkommen_Klassizfiziert&p=grid&r=quarter&clade=root)
-
-Quarters are colored by income classification
-
-# [Quarter by Age Range](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=age_range1&p=grid&r=quarter&clade=root)
-
-Quarters are colored by age range
-
-# [Zooming in to Block...](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=age_range1&d=tree,entropy&r=block&clade=root)
-
-We will now zoom in to Block...
-
-# [Zoomed into Block](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=age_range1&r=block&clade=root)
-
-We are now zoomed in to block level, coloured by age range
-
-# [Block by Social Score](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=Social_Score_sum&p=grid&r=block&clade=root)
-
-Blocks, coloured by social score sum
-
-# [Block by Income Classification](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=Reineinkommen_Klassizfiziert&p=grid&r=block&clade=root)
-
-Blocks are colored by income classification
-
-# [Zoom in on Cluster 53](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=zoom_cluster&clade=Cluster_53&p=grid&r=block)
-
-Cluster 53 is shown and mapped across Basel by block
-
-# [Zoom in on Cluster 31](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=zoom_cluster&clade=Cluster_31&p=grid&r=block)
-
-Cluster 31 is shown and mapped across Basel by block
-
-# [Zoom in on Cluster 19](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=zoom_cluster&clade=Cluster_19&p=grid&r=block)
-
-Cluster 19 is shown and mapped across Basel by block
-
-# [Cluster 19 zooming to city...](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=zoom_cluster&clade=Cluster_19&p=grid&r=city&d=tree,entropy)
-
-We can also view Cluster 19 across cities near Basel...
-<br>
-... Zooming out to city level
-
-# [Cluster 19 by City](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/full?c=zoom_cluster&clade=Cluster_19&p=grid&r=city)
-
-Cluster 19 across cities near Basel
-<br>
-Unfortunately city zoom is currently quite zoomed out (see previous city-level zoom step); this is the same zoom level used.
+From this view, it is now clear that other sequences from this cluster are from cities close to Basel.
+<br><br>
+You can go back to the first narrative, which discusses all the samples, [here](https://nextstrain-dev.herokuapp.com/community/narratives/appliedmicrobiologyresearch/Influenza-2016-2017/baselFlu).
