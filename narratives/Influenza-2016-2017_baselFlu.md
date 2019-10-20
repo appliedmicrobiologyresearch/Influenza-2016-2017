@@ -72,26 +72,18 @@ The city of Basel has 1,078 statistical blocks, with a mean number of inhabitant
 <br><br>
 Colouring the tree and map by population density (with 1 being highest density), we can see sharp boundaries between different areas of Basel which coincide with the boundaries between quarters.
 <br><br>
-Even at the level of statistical blocks, there is little gegraphical clustering of related viral variants.
+Even at the level of statistical blocks, there is little geographical clustering of related viral variants.
 
-# [Zooming Closer to Statistical Block](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=Einwohner_proHektare_Klassifiziert&f_city=Bettingen,Riehen,Basel&d=tree,entropy&p=grid&r=block&clade=root)
+# [Zooming Closer to Statistical Block](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=zoom_block_cluster&d=tree,entropy&f_quarter=Gundeldingen,St.%20Alban&p=grid&r=zoom_block&clade=root)
 
-Statistical block
-<br>
-Zooming to closer block level...
-<br>
-TO DO
+Zooming into the two neighbouring quarters Gundeldingen and St. Alban, we can will explore the geographic distribution of putative transmission clusters.
 
-# [Zoomed to Closer Statistical Block](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=Reineinkommen_Klassizfiziert&p=grid&r=block&clade=root)
+# [Fine Scale Distribution of Sequence Clusters](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=zoom_block_cluster&f_quarter=Gundeldingen,St.%20Alban&p=grid&r=zoom_block&clade=root)
 
-Statistical block
-<br>
-Even at resolution of statistical blocks, there is high diversity of isolates. In a single block, multiple different viruses which belong to different clusters, can occur.
-<br>
-TO DO
+Even at the resolution of statistical blocks, there is high diversity of isolates. In a single statistical block, multiple different viruses which belong to different clusters, can occur.
 
-# [Explore Clusters Further](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=Reineinkommen_Klassizfiziert&p=grid&r=block&clade=root)
+# [Explore Clusters Further](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=quarter&f_city=Basel&p=grid&r=block&clade=root)
 
-Specific clustrs within Basel were analyzed on a whole genome level, and are visualized here:
+Specific clusters within Basel were analyzed on a whole genome level, and are visualized here:
 <br><br>
-We invite you to continue exploring the data by continuing to the second Narrative.
+We invite you to continue exploring the data by continuing to the second Narrative [here](https://nextstrain-dev.herokuapp.com/community/narratives/appliedmicrobiologyresearch/Influenza-2016-2017/baselFluClusters).
