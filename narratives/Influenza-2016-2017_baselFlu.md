@@ -4,11 +4,17 @@ authors: "Egli A., Goldman N., et al."
 authorLinks: "https://xxx"
 date: "October 2019"
 updated: "October 2019"
-dataset: "https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=country&p=grid"
-abstract: "Influenza has caused devastating pandemics in the history of humankind. But, even without pandemics, every year the high morbidity and mortality associated with non-pandemic influenza strains have a major impact on individual and public health. Interactions and dynamics of influenza transmission events have been described across different scales: globally, across continents, on university campuses, and within households. Therefore, it has become pressing to answer one of the key questions in influenza epidemiology: how influenza propagates within a city? <br><br> In this study, we combined geographical and epidemiological data with whole genome sequencing of influenza viruses to achieve a detailed view of the socioeconomic factors associated with influenza transmission. We achieve an unprecedented level of resolution, tracking patterns at the level of urban quarters (i.e. neighbourhoods/areas) and statistical blocks (i.e. city blocks/streets), which corresponding to the smallest geographic subdivisions. These analyses revealed that net income was the major factor associated with influenza vaccination rates, herd immunity, and influenza incidence. During the following slides of the narrative function of nextstrain, whole genome sequencing revealed that strains in Basel reflect the global diversity at various levels from surrounding cities to urban quarters and statistical blocks. Also, the pattern underpinning transmission routes between different urban quarters is complex, but linked to low pre-seasonal herd immunity and net income within urban quarters."
+dataset: "https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=country&p=grid&clade=root"
+abstract: "One of the key questions in influenza epidemiology: how does influenza propagate within a city?<br><br>In this study, we combined geographical and epidemiological data with whole genome sequencing of influenza viruses to achieve a detailed view of the socioeconomic factors associated with influenza transmission.<br><br>(Please scroll down or click the arrow below to continue...)"
 ---
 
-# [A Global View](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=country&p=grid)
+# [The Basel Flu Study](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=country&p=grid&clade=root)
+
+In the following slides, using time-resolved phylogenies derived from the HA segment of the influenza virus, we show that influenza strains in Basel reflect the global diversity at various levels from surrounding cities to urban quarters and statistical blocks. 
+<br><br>
+Further, we demonstrate that the pattern underpinning transmission routes between different urban quarters is complex.
+
+# [A Global View](https://nextstrain.org/community/appliedmicrobiologyresearch/Influenza-2016-2017/h3n2/ha?c=country&p=grid&clade=root)
 
 On the left, this slide shows a phylogeny of the HA segment of H3N2 viruses sampled between mid-2016 and mid-2017. The locations where these viruses were sampled are on the map of the world on the right. Our sequence sample covers every continent with a focus on Europe. The large blue circle in the middle represents the samples from the city of Basel and the surrounding areas collected during this study.
 <br><br>
