@@ -86,4 +86,4 @@ Even at the resolution of statistical blocks, there is high diversity of isolate
 
 Specific clusters within Basel were analyzed on a whole genome level, and are visualized here:
 <br><br>
-We invite you to continue exploring the data by continuing to the second Narrative.
+We invite you to continue exploring the data by continuing to the second Narrative [here](https://github.com/appliedmicrobiologyresearch/Influenza-2016-2017/blob/master/data_information/acknowledgement_table.tsv)
